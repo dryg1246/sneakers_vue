@@ -7,6 +7,7 @@ defineProps({
   isAdded: Boolean,
   onClickAdd: Function,
   onClickFavorite: Function,
+  id: Number
 })
 </script>
 
